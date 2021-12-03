@@ -1,0 +1,14 @@
+certifi==2020.12.5
+chardet==4.0.0
+freeze==0.0.1
+idna==2.10
+psutil==5.8.0
+psycopg2==2.8.6
+pyaes==1.6.1
+pyasn1==0.4.8
+requests==2.25.1
+rsa==4.7
+selenium==3.141.0
+Telethon==1.19.4
+undetected-chromedriver==2.1.2
+urllib3==1.26.3
